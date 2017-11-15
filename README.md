@@ -1,2 +1,7 @@
 # QVina.github.io
-The code for the QuickVina homepage.
+The files for the QuickVina homepage.
+
+
+Should have links to both:
+* QuickVina 2
+* QuickVina-W
