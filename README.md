@@ -1,4 +1,4 @@
-# Welcome to QVina!
+# Welcome to QuickVina!
 
 
 To dock against a known pocket 
