@@ -1,17 +1,13 @@
-# 
-The files for the QuickVina homepage.
+# Welcome to QVina!
 
 
-Should have links to both:
-* QuickVina 2
-* QuickVina-W
+To dock against a known pocket 
+QuickVina 2
 
+For a blind docking
+QuickVina-W
 
-# Welcome to QVina
-
-If you want to use quickVina 2 for a previously known pocket, please press Qvina2, otherwise if you want to do a blind docking, use QuickVina-W.
-
-Having any inquiries, feel free to contact us at:
+Having any inquiries, please contact us at:
 Amr Alhossry: amra0001@ntu.edu.sg
 Nafisa      : nafisa.mohamed@ntu.edu.sg
 
