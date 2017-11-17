@@ -1,12 +1,10 @@
 mmmmmmmmmmmmmmmmmmmmmmm
-<h1>QuickVina</h1>
+<h1>ًWelcome to QuickVina!</h1>
 
 
-<h2>To dock against a known pocket </h2> <br>
-QuickVina 2
+<h4>To dock against a known pocket, please use QuickVina 2 </h4> <br>
 
-For a blind docking
-QuickVina-W
+<h4>For a blind docking, QuickVina-W is more suitable. </h4>
 
 Having any inquiries, please contact us at:
 Amr Alhossry: amra0001@ntu.edu.sg
