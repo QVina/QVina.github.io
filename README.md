@@ -1,5 +1,5 @@
 
-<h1>ًWelcome to QuickVina!</h1>
+#Welcome to QuickVina!
 
 
 <h3>To dock against a known pocket, please use QuickVina 2. For a blind docking, QuickVina-W is more suitable. </h3>
