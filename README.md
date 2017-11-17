@@ -1,5 +1,5 @@
 mmmmmmmmmmmmmmmmmmmmmmm
-<h1>Welcome to QuickVina!</h1>
+<h1>QuickVina</h1>
 
 
 <h2>To dock against a known pocket </h2> <br>
