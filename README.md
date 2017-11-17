@@ -1,8 +1,8 @@
 mmmmmmmmmmmmmmmmmmmmmmm
-# Welcome to QuickVina!
+<h1>Welcome to QuickVina!</h1>
 
 
-To dock against a known pocket 
+<h2>To dock against a known pocket </h2> <br>
 QuickVina 2
 
 For a blind docking
