@@ -28,12 +28,12 @@ __"Protein-Ligand Blind Docking Using QuickVina-W With Inter-Process Spatio-Temp
 Nafisa M. Hassan, Amr A. Alhossary, Yuguang Mu & Chee-Keong Kwoh. Nature Scientific Reports 7(1) (2017). [DOI:10.1038/s41598-017-15571-7](http://dx.doi.org/10.1038/s41598-017-15571-7)
 
 ### important note:
-* If you Don't know the Docking site, then QuickVina-W is your choice with ability to dock _WIDE_ search box.
+* If you Don't know the Docking site, then QuickVina-W is your choice with the ability to dock a _WIDE_ search box.
 * However if you _know_ the target search box, we recommend that you use QuickVina 2.
 
 
 Having any inquiries, please contact us<br>
-<a href= "mailto:amra0001@ntu.edu.sg"> Amr Alhossary </a> <br>
+<a href= "mailto:aalhossary@pmail.ntu.edu.sg"> Amr Alhossary </a> <br>
 <a href= "mailto:nafisa.mohamed@ntu.edu.sg"> Nafisa Mohamed </a> <br>
 
 
