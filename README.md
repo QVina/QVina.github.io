@@ -22,8 +22,6 @@ Adding the ability of __Blind Docking__ to QuickVina 2.
 _QuickVina-W_ is __faster__ than _QuickVina 2_ and __more accurate__ than _AutoDock Vina_.
 
 
-
-
 To cite QuickVina-W please cite:
 
 __"Protein-Ligand Blind Docking Using QuickVina-W With Inter-Process Spatio-Temporal Integration"__
@@ -33,8 +31,6 @@ Nafisa M. Hassan, Amr A. Alhossary, Yuguang Mu & Chee-Keong Kwoh. Nature Scienti
 * If you Don't know the Docking site, then QuickVina-W is your choice with ability to dock _WIDE_ search box.
 * However if you _know_ the target search box, we recommend that you use QuickVina 2.
 
-<h3>To dock against a known pocket, please use QuickVina 2. <br>
-For a blind docking, QuickVina-W is more suitable. </h3>
 
 Having any inquiries, please contact us<br>
 <a href= "mailto:amra0001@ntu.edu.sg"> Amr Alhossary </a> <br>
