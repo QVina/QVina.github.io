@@ -17,9 +17,9 @@ Amr Alhossary, Stephanus Daniel Handoko, Yuguang Mu, and Chee-Keong Kwoh. Bioinf
 QuickVina-W
 --------------
 
-Adding the ability of __Blind Docking__ to QuickVina 2.
+Virtual Screening” is a common step of in silico drug design, where researchers screen a large library of small molecules (ligands) for interesting hits, in a process known as “Docking”. However, docking is a computationally intensive and time-consuming process, usually restricted to small size binding sites (pockets) and small number of interacting residues. When the target site is not known (blind docking), researchers split the docking box into multiple boxes, or repeat the search several times using different seeds, and then merge the results manually. Otherwise, the search time becomes impractically long. 
 
-_QuickVina-W_ is __faster__ than _QuickVina 2_ and __more accurate__ than _AutoDock Vina_.
+In this research, we studied the relation between the search progression and Average Sum of Proximity relative Frequencies (ASoF) of searching threads, which is closely related to the search speed and accuracy. A new inter-process spatio-temporal integration method is employed in Quick Vina 2, resulting in a new docking tool, QuickVina-W, a suitable tool for “blind docking”, (not limited in search space size or number of residues). QuickVina-W is faster than Quick Vina 2, yet better than AutoDock Vina. It should allow screening huge ligand libraries virtually, in practically short time and with high accuracy without the need to define a target pocket beforehand.
 
 
 To cite QuickVina-W please cite:
