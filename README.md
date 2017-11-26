@@ -7,6 +7,7 @@ Quick Vina 2 is a fast and accurate molecular docking tool, attained at accurate
 
 It is also witnessed that QVina 2 is more accurate than GOLD 5.2 and is only slightly less accurate than Dock 6.6. This shows that QVina 2 has paved the way for some high-throughput and sufficiently accurate virtual screening of molecular libraries. This in turn brings great value to the fragment-based computer-aided drug design.
 
+here sould appear the fig
 <img src="https://github.com/QVina/QVina.github.io/blob/master/fig7.png">
 
 
