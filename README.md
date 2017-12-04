@@ -15,11 +15,13 @@ Next, the following figure shows that 70% of first predicted modes from QVina 2 
 
 
 
+
 It is also witnessed that QVina 2 is more accurate than GOLD 5.2 and is only slightly less accurate than Dock 6.6. This shows that QVina 2 has paved the way for some high-throughput and sufficiently accurate virtual screening of molecular libraries. This in turn brings great value to the fragment-based computer-aided drug design.
 
 A good example of the quality of prediction of QVina 2 is 3PWW, shown in the below figure. 3PWW has 20 active bonds and 49 heavy atoms. Although it was accelerated in a lower rate than QVina 1 (4.74 versus 15.36 times), QVina 2 succeeded with RMSD of 1.436, while Vina, GOLD, Dock, and QVina 1 (not shown) all failed with respective RMSD values of 2.032, 2.711, 5.352, and 6.067). It is easy to notice the closeness between QVina 2 prediction in Red and the experimental data in Cyan as shown in the below figure.
 
 ![Example](https://github.com/QVina/QVina.github.io/raw/master/fig7 without caption.png)
+
 Experimental (Cyan sticks), and QVina 2 (Red Sticks) are close to each other (except for the terminal double ring), while GOLD (Magenta lines) and Vina (Blue lines) conformations have flipped upper right and lower right branches and relatively distant left branch, and Dock (Yellow lines) has a totally flipped conformation. Part of the receptor was removed to show the ligands.
 
 
