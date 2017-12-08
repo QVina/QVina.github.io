@@ -23,6 +23,7 @@ Acceleration of QVina 2 and QVina-W (different steps) against Vina. (A) Overall 
 
 
 
+
 To cite QuickVina-W please cite:
 
 __"Protein-Ligand Blind Docking Using QuickVina-W With Inter-Process Spatio-Temporal Integration"__
