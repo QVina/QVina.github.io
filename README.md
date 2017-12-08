@@ -10,6 +10,14 @@ In order to prove our theory, we analyzed the search process to trace the Averag
 
 QVina-W proved to be faster than QVina 2 (with average and maximum normalized overall time accelerations of 3.60 and 34.33 folds in relation to Vina versus 1.98 and 18.02 respectively), yet better than Vina in terms of Binding Energy (78% of predictions with binding energy better than or equal to Vina) and RMSD (with success rate of 72% by QVina-W versus 63% by Vina).
 
+![Example](https://github.com/QVina/QVina.github.io/raw/master/Figure 10.jpg)
+
+RMSD of Vina, QVina 2, and QVina-W. Relative frequency of successes using RMSD to experimental data for both Vina and QVina-W. 
+(A) RMSD distribution of the first mode. (B) First mode success at 2.0 A. (C) RMSD distribution of the best mode. (D) Best mode success at 2.0 A.
+
+
+
+
 
 To cite QuickVina-W please cite:
 
