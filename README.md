@@ -62,7 +62,7 @@ Amr Alhossary, Stephanus Daniel Handoko, Yuguang Mu, and Chee-Keong Kwoh. Bioinf
 
 
 
-## important note:
+## Important note:
 * If you Don't know the Docking site, then QuickVina-W is your choice with the ability to dock a _WIDE_ search box.
 * However if you _know_ the target search box, we recommend that you use QuickVina 2.
 
