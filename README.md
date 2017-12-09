@@ -56,6 +56,10 @@ A good example of the quality of prediction of QVina 2 is 3PWW, shown in the bel
 Experimental (Cyan sticks), and QVina 2 (Red Sticks) are close to each other (except for the terminal double ring), while GOLD (Magenta lines) and Vina (Blue lines) conformations have flipped upper right and lower right branches and relatively distant left branch, and Dock (Yellow lines) has a totally flipped conformation. Part of the receptor was removed to show the ligands.
 
 
+![Times and accelerations](https://github.com/QVina/QVina.github.io/raw/master/times and accelerations.png)
+
+
+
 To cite QuickVina 2 please cite:
 
 __"Fast, Accurate, and Reliable Molecular Docking with QuickVina 2"__
