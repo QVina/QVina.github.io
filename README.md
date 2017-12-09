@@ -60,6 +60,8 @@ Experimental (Cyan sticks), and QVina 2 (Red Sticks) are close to each other (ex
 
 
 
+
+
 To cite QuickVina 2 please cite:
 
 __"Fast, Accurate, and Reliable Molecular Docking with QuickVina 2"__
