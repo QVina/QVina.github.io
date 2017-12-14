@@ -19,9 +19,15 @@ RMSD of Vina, QVina 2, and QVina-W. Relative frequency of successes using RMSD t
 
 
 
+
+
 ![Acceleration](https://github.com/QVina/QVina.github.io/raw/master/overall-time-acceleration-widevina.png)
 
-Acceleration of QVina 2 and QVina-W (different steps) against Vina. (A) Overall time acceleration for QVina 2 and QVina-W steps X1, X2, X4 against Vina. (B) Normalized overall time acceleration for QVina 2 and QVina-W.
+Overall time acceleration for QVina 2 and QVina-W against Vina.
+
+
+![Normalized Acceleration](https://github.com/QVina/QVina.github.io/raw/master/normalized-overall-time-acceleration-widevina.png)
+Normalized overall time acceleration for QVina 2 and QVina-W.
 
 
 
