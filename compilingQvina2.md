@@ -1,4 +1,4 @@
-# Compiling QuickVina-W
+# Compiling QuickVina 2
 
 
 
@@ -10,11 +10,11 @@
       git clone https://github.com/QVina/qvina.git
       ```
  
-1. Checkout the qvina-w branch:
+1. Checkout the qvina 2 branch:
 
       ```bash
       cd qvina
-      git checkout qvina-w
+      git checkout qvina2_1buffer
       ```
      
 1. If you installed boost in your home directory then edit the first two lines of Makefile:
@@ -30,5 +30,5 @@
       make
       ```
 
-You will find an executable file called **qvina-w** in the current folder.
+You will find an executable file called **qvina02** in the current folder.
 
