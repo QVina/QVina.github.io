@@ -10,7 +10,7 @@
 
  `git clone https://github.com/QVina/qvina.git`   
  
-  2. Checkout the qvina-w branch:
+  1. Checkout the qvina-w branch:
 
 
  `cd qvina`   
