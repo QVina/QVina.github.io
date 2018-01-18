@@ -19,9 +19,9 @@
      
 1. If you installed boost in your home directory then edit the first line of Makefile:
    
-      ```
-      BASE=/Your/boost/location
-      ```
+      ```Makefile
+      BASE = /Your/boost/location
+      ```        
           
 1. Build the application:
     
@@ -29,5 +29,5 @@
       make
       ```
 
-You will find an executable file called qvina-w in the current folder.
+You will find an executable file called **qvina-w** in the current folder.
 
