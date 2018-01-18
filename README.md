@@ -10,7 +10,7 @@ In order to prove our theory, we analyzed the search process to trace the Averag
 
 QVina-W proved to be faster than QVina 2 (with average and maximum normalized overall time accelerations of 3.60 and 34.33 folds in relation to Vina versus 1.98 and 18.02 respectively), yet better than Vina in terms of Binding Energy (78% of predictions with binding energy better than or equal to Vina) and RMSD (with success rate of 72% by QVina-W versus 63% by Vina).
 
-![RMSD](https://github.com/QVina/QVina.github.io/raw/master/Figure 10.jpg)
+![RMSD](https://github.com/QVina/QVina.github.io/raw/master/Figure_10.jpg)
 
 RMSD of Vina, QVina 2, and QVina-W. Relative frequency of successes using RMSD to experimental data for both Vina and QVina-W. 
 (A) RMSD distribution of the first mode. (B) First mode success at 2.0 A. (C) RMSD distribution of the best mode. (D) Best mode success at 2.0 A.
@@ -44,11 +44,12 @@ Quick Vina 2 is a fast and accurate molecular docking tool, attained at accurate
 
 The following figure shows the binding energies of the first predicted modes in QVina 1 and 2 on the vertical axis, against their corresponding modes in original Vina on the horizontal axis. The binding Energies of QVina 2 are almost identical to those of Vina. The Pearson’s correlation coefficient (r) for the two pairs was 0.967 between Vina and QVina 2, while it was only 0.780 between Vina and QVina 1. The same observation was also observed for the sums of all predicted modes where the respective values were 0.912 and 0.637
 
-![Binding energy](https://github.com/QVina/QVina.github.io/raw/master/qvina2 fig 3 binding energy.png)
+![Binding energy](https://github.com/QVina/QVina.github.io/raw/master/qvina2_fig_3_binding_energy.png)
+
 
 Next, the first predicted mode of binding energy is shown in the following figure.70% of first predicted binding energy modes from QVina 2 are equal to or better than Vina predicted modes. Even the remaining 30% have an average Energy difference as small as 0.58 Kcal/mol. On the contrary, the ratio is almost reversed for QVina 1: Only 37% are equal to or better than the Original Vina, and the remaining 63% have an average E difference as far as 1.56 Kcal/mol. Percentage of predictions with the same Binding Energies is shown in the middle part, while those with better Energy (more negative) are shown to the left (along with the average of energy difference from Vina, and those with worse Energy (less negative) are shown to the right along with their average energy difference.
 
-![Binding energy first predicted mode](https://github.com/QVina/QVina.github.io/raw/master/qvina2 fig 4 binding energy.png)
+![Binding energy first predicted mode](https://github.com/QVina/QVina.github.io/raw/master/qvina2_fig_4_binding_energy.png)
 
 
 
@@ -57,14 +58,15 @@ It is also witnessed that QVina 2 is more accurate than GOLD 5.2 and is only sli
 
 A good example of the quality of prediction of QVina 2 is 3PWW, shown in the below figure. 3PWW has 20 active bonds and 49 heavy atoms. Although it was accelerated in a lower rate than QVina 1 (4.74 versus 15.36 times), QVina 2 succeeded with RMSD of 1.436, while Vina, GOLD, Dock, and QVina 1 (not shown) all failed with respective RMSD values of 2.032, 2.711, 5.352, and 6.067). It is easy to notice the closeness between QVina 2 prediction in Red and the experimental data in Cyan as shown in the below figure.
 
-![Example](https://github.com/QVina/QVina.github.io/raw/master/fig7 without caption.png)
+![Example](https://github.com/QVina/QVina.github.io/raw/master/fig7_without_caption.png)
 
 Experimental (Cyan sticks), and QVina 2 (Red Sticks) are close to each other (except for the terminal double ring), while GOLD (Magenta lines) and Vina (Blue lines) conformations have flipped upper right and lower right branches and relatively distant left branch, and Dock (Yellow lines) has a totally flipped conformation. Part of the receptor was removed to show the ligands.
 
 
 From the following figure, we see that Vina processing time increases exponentially in relation to the number of heavy atoms. That makes QVina acceleration obvious over Vina. It is notable that the acceleration rate in QVina 2 is less than that of QVina 1, which is of course expected; because it performs more local searches than QVina 1. However, the acceleration tends to increase in a power of 2, with increased number of heavy atoms. It is expected that the slower rate of acceleration be due to the overhead of forking and joining threads as well as filling the entries database first before taking any decision. 
 
-![Times and accelerations](https://github.com/QVina/QVina.github.io/raw/master/times and acceleration one part.png)
+![Times and accelerations](https://github.com/QVina/QVina.github.io/raw/master/times_and_acceleration_one_part.png)
+
 Running time (in seconds) versus the number of heavy atoms. Original Vina is plotted in Black, QuickVina 1 in (light blue +) and QuickVina 2 in (Orange x).
 
 
