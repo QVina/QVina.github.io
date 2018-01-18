@@ -14,6 +14,7 @@
   2. Checkout the qvina-w branch:
     
     `cd qvina`
+    
     `git checkout qvina-w`
     
    3. If you installed boost in your home directory then edit the first line of Makefile:
