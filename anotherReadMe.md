@@ -1,29 +1,24 @@
 # Compiling QuickVina-W
 
 
-<!--THIS PAGE WILL BE COMPLETED VERY SOON.-->
 
-**Please make sure you have _BOOST_ 1.60 at least installed
+1. *Please make sure you have _BOOST_ 1.60 at least installed*
 
 1. Using git, clone the code:
 
-
  `git clone https://github.com/QVina/qvina.git`   
  
-  1. Checkout the qvina-w branch:
+1. Checkout the qvina-w branch:
 
-
- `cd qvina`   
- 
+ `cd qvina`
  `git checkout qvina-w`
- 
-    
-   3. If you installed boost in your home directory then edit the first line of Makefile:
+     
+1. If you installed boost in your home directory then edit the first line of Makefile:
    
       `BASE=/Your/boost/location`
       
     
-    4. Build the application:
+1. Build the application:
     
     `make`
 
