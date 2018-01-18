@@ -17,10 +17,11 @@
       git checkout qvina-w
       ```
      
-1. If you installed boost in your home directory then edit the first line of Makefile:
+1. If you installed boost in your home directory then edit the first two lines of Makefile:
    
       ```Makefile
       BASE = /Your/boost/location
+      BOOST_VERSION=1_60 #or your installed version
       ```        
           
 1. Build the application:
