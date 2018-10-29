@@ -24,6 +24,17 @@
       BOOST_VERSION=1_60 #or your installed version
       ```        
           
+1. If you are using MacOS, edit the 4th line of the Makefile:
+   
+      ```Makefile
+      C_PLATFORM=-static -pthread
+      ```        
+   to be
+   
+      ```Makefile
+      C_PLATFORM= -pthread
+      ```        
+
 1. Build the application:
     
       ```bash
