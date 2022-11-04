@@ -14,7 +14,7 @@
 
       ```bash
       cd qvina
-      git checkout qvina2_1buffer
+      git checkout qvina2
       ```
      
 1. If you installed boost in your home directory then edit the first two lines of Makefile:
