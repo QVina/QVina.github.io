@@ -37,9 +37,21 @@
 
 1. Build the application:
     
+   In normal situations, it is enough to build QuickVina-W using the default configuration (parallel). just write:
+   
       ```bash
       make
       ```
+      You will find an executable file called **qvina-w** in the current folder.
+      
+    =================
 
-You will find an executable file called **qvina-w** in the current folder.
+    However, if you are running QuickVina-W on a single core, it would be more time efficient to build QuickVina-W for serial running. in such case you should write:
+   
+      ```bash
+      make serial
+      ```
+
+    You will find an executable file called **qvina-w_serial** in the current folder.
+
 
